@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Reposito](https://github.com/NathanMartinez/fm_product_card_component_solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/NathanMartinez/fm_product_card_component_solution)
+- Live Site URL: [Github Pages Site](https://nathanmartinez.github.io/fm_product_card_component_solution/)
 
 ## My process
 
@@ -50,7 +50,7 @@ CSS content to update the image src property.
 
 ```css
 .proud-of-this-css {
-  content: url();
+	content: url();
 }
 ```
 
